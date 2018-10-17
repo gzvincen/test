@@ -3,3 +3,5 @@ void main
 {
 printf("Hello,world!\n");
 }
+
+条儿是个次怂
